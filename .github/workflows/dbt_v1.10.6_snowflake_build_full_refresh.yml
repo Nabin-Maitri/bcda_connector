@@ -4,6 +4,7 @@ on:
   pull_request:
     branches:
       - main
+      - test/dbt_version_upgrade
 
 
 env:
